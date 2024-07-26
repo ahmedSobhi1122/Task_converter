@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">convert</string>
+    <string name="convert_from_fahrenheit_to_celsius">Convert From Fahrenheit To Celsius</string>
+    <string name="bg">background</string>
+    <string name="calculate">Calculate</string>
+    <string name="initial_value">0</string>
+    <string name="Empty">Please enter a degree</string>
+</resources>
